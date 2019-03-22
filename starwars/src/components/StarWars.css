@@ -6,7 +6,7 @@
   background-color: white;
   border-radius: 5px;
   background-color: #272727;
-  background-image: radial-gradient(gray, black);
+  background-image: radial-gradient(#272727, black);
 }
 
 .list {
