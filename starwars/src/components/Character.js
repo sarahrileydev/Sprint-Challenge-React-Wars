@@ -12,6 +12,9 @@ const Character = props => {
       <p>
         <strong>Hair Color:</strong> {props.character.hair_color}
       </p>
+      <p>
+        <strong>Eye Color:</strong> {props.character.eye_color}
+      </p>
     </div>
   );
 };
