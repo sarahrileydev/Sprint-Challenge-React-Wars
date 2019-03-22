@@ -1,6 +1,8 @@
 import React from "react";
 
-const Characters = props => {
+import "./StarWars.css";
+
+const Character = props => {
   return (
     <div className="characterCard">
       <h3>{props.character.name}</h3>
